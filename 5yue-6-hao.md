@@ -50,5 +50,7 @@ print(a)
 
 # 今日复习：
 
+1. 写个文件已myself命名, 在其中写入hello，world
+
 
 
